@@ -1,8 +1,5 @@
 # My First Repository
 My first repo is amazing!
-=======
-My first repo is terrible!
-
 
 Let's give it a bash!
 
