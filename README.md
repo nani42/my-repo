@@ -1,5 +1,5 @@
 # My First Repository
-My first repo!
+My first repo is amazing!
 
 Let's give it a bash!
 
