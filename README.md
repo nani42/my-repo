@@ -7,4 +7,5 @@ Let's give it a bash!
 
 ```MATLAB
 sine = sin(2*pi*frequency*N/ Fs);
+soundsc(sine, Fs);
 ```
